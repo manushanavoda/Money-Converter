@@ -1,4 +1,6 @@
 # Money-Converter
+<img width="633" height="1016" alt="image" src="https://github.com/user-attachments/assets/f1d5e134-ab94-4115-b1f8-f30024a3c2fd" />
+<img width="645" height="1011" alt="image" src="https://github.com/user-attachments/assets/797506f4-4070-4816-adee-63b8affb0a98" />
 
 money Converter is a modern, professional-grade desktop currency converter application built with **Python**. It provides real-time exchange rate data with a sleek, user-friendly interface that supports both Light and Dark modes.
 
@@ -38,5 +40,3 @@ This project is MIT licensed.
 
 Developed with ❤️ by [Manusha]
 
-<img width="633" height="1016" alt="image" src="https://github.com/user-attachments/assets/f1d5e134-ab94-4115-b1f8-f30024a3c2fd" />
-<img width="645" height="1011" alt="image" src="https://github.com/user-attachments/assets/797506f4-4070-4816-adee-63b8affb0a98" />
